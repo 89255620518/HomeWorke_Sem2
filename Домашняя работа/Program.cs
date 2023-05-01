@@ -69,6 +69,7 @@ if (num_2 >= 3) {
 */
 
 //Решение:
+/*
 Console.WriteLine("Input your number: ");
 int num_Ber = Convert.ToInt32(Console.ReadLine());
 if (num_Ber < 7)
@@ -79,3 +80,4 @@ else
 {
     Console.WriteLine($"{num_Ber} -> Увы, нет такой день недели");
 }
+*/
