@@ -1,0 +1,15 @@
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.csproj.AssemblyReference.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.AssemblyInfoInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.AssemblyInfo.cs
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.csproj.CoreCompileInputs.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\bin\Debug\net6.0\Домашняя работа.exe
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\bin\Debug\net6.0\Домашняя работа.deps.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\bin\Debug\net6.0\Домашняя работа.runtimeconfig.json
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\bin\Debug\net6.0\Домашняя работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\bin\Debug\net6.0\Домашняя работа.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\refint\Домашняя работа.dll
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.pdb
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\Домашняя работа.genruntimeconfig.cache
+C:\Users\Хасанов Эркин\OneDrive\Рабочий стол\Семинар2 по С#\Домашняя работа\obj\Debug\net6.0\ref\Домашняя работа.dll
